@@ -1,0 +1,40 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px green; 
+ }
+ 
+ .heading_div{
+     float: none;
+     background-color: grey;
+     padding: 10px;
+     border-radius: 20px;
+     color: indigo;
+     box-shadow: 5px 5px 5pxb blue;
+ }
+ 
+ .headind_div_2{
+     font-size: 18px;
+ }
+ 
+ .para{
+     box-shadow: 5px 5px 5px indigo;
+     font-size: 20px;
+ }
+ .footer{
+     position: fixed;
+     color: indigo;
+     bottom: 0;
+     width: 100%;
+     background-color: khaki;
+     line-height: 3;
+     text-align: center;
+ }
+ 
+ canvas{
+     border: 5px solid aqua;
+     border-radius: 20px;
+     box-shadow: 5px 5px 5px green;
+     margin-top: 150px;
+ }
